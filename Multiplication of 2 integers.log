@@ -1,0 +1,10 @@
+//Multiplication of 2 numbers
+undefined
+let a = 2
+undefined
+let b =12
+undefined
+let c = a*b
+undefined
+c
+24
