@@ -1,6 +1,7 @@
+// This is the declaration of the array
 let arrayclass=[1, 'Samuel', true, name]
-undefined
-arrayclass
+
+// arrayclass displaying the items
 (4) [1, 'Samuel', true, '']
 arrayclass[2]
 true
